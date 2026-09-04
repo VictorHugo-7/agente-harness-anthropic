@@ -91,3 +91,4 @@ agente-harness-anthropic/
 
 <!--LICENÇA-->
 ## Licença
+[Veja a licença](https://github.com/VictorHugo-7/agente-harness-anthropic?tab=License-1-ov-file)
